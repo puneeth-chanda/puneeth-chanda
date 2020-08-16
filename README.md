@@ -7,4 +7,4 @@
 - 😄 Pronouns: He, His, Him, 
 - ⚡ Fun fact: I eat horlicks while working.
 
-[![Puneeth's github stats](https://github-readme-stats.vercel.app/api?username=puneeth2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Puneeth's github stats](https://github-readme-stats.vercel.app/api?username=puneeth2001&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
