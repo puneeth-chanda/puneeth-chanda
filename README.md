@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I eat horlicks while working.
 
 [![Puneeth's github stats](https://github-readme-stats.vercel.app/api?username=puneeth2001&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneeth2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
