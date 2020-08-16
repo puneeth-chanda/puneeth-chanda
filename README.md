@@ -6,3 +6,5 @@
 - 📫 How to reach me: send an email to [puneethchanda2001@gmail.com](mailto:puneethchanda2001@gmail.com) or ping me on Telegram, [@puneethchanda](https://t.me/puneethchanda).
 - 😄 Pronouns: He, His, Him, 
 - ⚡ Fun fact: I eat horlicks while working.
+
+[![Puneeth's github stats](https://github-readme-stats.vercel.app/api?username=puneeth2001)](https://github.com/anuraghazra/github-readme-stats)
