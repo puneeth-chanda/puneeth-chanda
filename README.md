@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Java, Vue**
 
-- 👨‍💻 All of my projects are available at [puneeth2001.github.io](puneeth2001.github.io)
+- 👨‍💻 All of my projects are available at [puneeth-chanda.github.io](puneeth-chanda.github.io)
 
 - 📫 How to reach me **chandapuneeth@gmail.com**
 
